@@ -1,0 +1,18 @@
+.DS_Store
+**/.DS_Store
+# Ignore node_modules directory
+node_modules/
+# Ignore log files
+*.log
+# Ignore environment variable files
+.env
+# Ignore build directories
+dist/
+# Ignore coverage reports
+coverage/
+# Ignore temporary files
+*.tmp
+# Ignore IDE specific files
+.idea/
+# Ignore OS generated files
+Thumbs.db
